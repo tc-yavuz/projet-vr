@@ -5,4 +5,13 @@ Vous devez entrer dans le château, puis éliminer les archers qui tenteront de 
 
 ## Moodboard
 
+### Visuel
 ![moodboard](medias/moodboard.png)
+
+### Sonore
+
+ambience à l'intérieur du chateau: https://www.youtube.com/watch?v=BwV1azM1Ifw&ab_channel=MichaelGhelfiStudios
+
+ambience à l'extérieur:(à 40min) https://www.youtube.com/watch?v=eifwZFRSydQ&ab_channel=EpixAmbience
+
+passage de checkpoint: (intro de percussion) https://www.youtube.com/watch?v=mjjkHg5FOhk&ab_channel=sonic4real
