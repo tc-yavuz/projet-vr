@@ -15,3 +15,11 @@ ambience à l'intérieur du chateau: https://www.youtube.com/watch?v=BwV1azM1Ifw
 ambience à l'extérieur:(à 40min) https://www.youtube.com/watch?v=eifwZFRSydQ&ab_channel=EpixAmbience
 
 passage de checkpoint: (intro de percussion) https://www.youtube.com/watch?v=mjjkHg5FOhk&ab_channel=sonic4real
+
+## Schéma de programmation
+
+![moodboard](medias/schema_de_prog.png)
+
+## Plan de l'environement
+
+![moodboard](medias/plan_de_travail.png)
