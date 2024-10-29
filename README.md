@@ -22,4 +22,4 @@ passage de checkpoint: (intro de percussion) https://www.youtube.com/watch?v=mjj
 
 ## Plan de l'environement
 
-![moodboard](medias/Plan_de_travail1.png)
+![moodboard](medias/Plandetravail1.png)
